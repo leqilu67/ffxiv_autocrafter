@@ -15,3 +15,11 @@ To install with pip, run: ```pip install pyautogui```
 
 # To interupt script
 ```Ctrl + C```
+
+<br/><br/>
+
+#### Notes: 
+##### Please change your hot-keys accordingly.
+###### ```Shift + Enter``` is my hot-key for confirm, <br/>
+###### ```Ctrl + B``` is my hot-key for crafting macro.
+
